@@ -1,0 +1,125 @@
+/* body{
+    margin: 0;
+    position: absolute;
+    display: block;
+    background-color: yellow;
+} */
+.main{
+    left: 34rem;
+    display: inline-block;
+    position: relative;
+    background-color: whitesmoke;
+    border: solid black 2px;
+    height: 30rem;
+    width: 25rem;
+    /* align-items: center; */
+    top: 5rem;
+}
+#i1{
+    display: inline-block;
+    position: relative;
+    background-color: blue;
+    border: solid black 2px;
+    height: 6rem;
+    width: 24.7rem;
+    margin: 0;
+}
+.text{
+    display: inline-block;
+    position: relative;
+    background-color: whitesmoke;
+    height: 6rem;
+    width: 24.7rem;
+    /* border: solid black 2px; */
+    top: -8rem;
+}
+.uname{
+    left: 8.6rem;
+    display: inline-block;
+    position: relative;
+    background-color: whitesmoke;
+    height: 6rem;
+    width: 24.8rem;
+    /* border: solid black 2px; */
+    top: 3rem;
+}
+.btn{
+    right: 16.4rem;
+    display: inline-block;
+    position: relative;
+    background-color: whitesmoke;
+    height: 3rem;
+    width: 16.9rem;
+    /* border: solid black 2px; */
+    top: 13.3rem;
+}
+#uname{
+    display: inline-block;
+    position: relative;
+    /* border: dotted black 2px; */
+    top: 2rem;
+    font-size: 143%;
+    color: black;
+    right: -0.9rem;
+}
+#un{
+    border: solid black 2px;
+    background-color: powderblue;
+    width: 12rem;
+    position: relative;
+    top: 4rem;
+    right: 5.5rem;
+    height: 1rem;
+    margin: 0;
+}
+#pass{
+    border: solid black 2px;
+    background-color: powderblue;
+    width: 12rem;
+    position: relative;
+    top: 4rem;
+    right:4.6rem;
+    height: 1rem;
+    margin: 0;
+}
+#ok{
+    background-color: aliceblue;
+    font-size: 2rem;
+    height: 3rem;
+    position: relative;
+    width: 7rem;
+    left:1rem;
+    cursor:grab;
+}
+#reset{
+    background-color: aliceblue;
+    font-size: 2rem;
+    height: 3rem;
+    position: relative;
+    width: 7rem;
+    left:2.7rem;
+}
+hr{
+    
+    top: -0.4rem;
+    margin: 0;
+    position: relative;
+}
+h1{
+    display: inline;
+    left: 3rem;
+    position: relative;
+    font-size: 8rem;
+    color: whitesmoke;
+   top: -7.7rem;
+    margin: 0;
+}
+p{
+    position: relative;
+    display: inline;
+    top: -7.9rem;
+    color: whitesmoke;
+    font-size: 5rem;
+    left: 3rem;
+    margin:0;
+}
